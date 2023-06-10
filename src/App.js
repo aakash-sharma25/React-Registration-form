@@ -43,9 +43,10 @@ function App() {
     const isValid = await userSchema.isValid(dataObject)
 
     if (isValid) {
-      alert('Form is Valid')
+      // alert('Form is Valid')
+      alert( firstName + " "+ lastName +" " + "thanks for Registration")
     } else {
-      alert('Form is Invalid')
+      alert('Form is Invalid please fill it again')
     }
   }
 
@@ -94,6 +95,7 @@ function App() {
 
         {/* Input Field to insert Password */}
         <input
+        type='password'
           placeholder="Password"
           onChange={(e) => setPassword(e.target.value)}
           className='p-[10px] rounded-lg bg-slate-800 w-full'
