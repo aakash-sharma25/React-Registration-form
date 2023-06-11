@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Registration-form/static/css/main.87c76908.css",
-    "main.js": "/React-Registration-form/static/js/main.e7e63c89.js",
+    "main.js": "/React-Registration-form/static/js/main.e2017c3b.js",
     "index.html": "/React-Registration-form/index.html",
     "main.87c76908.css.map": "/React-Registration-form/static/css/main.87c76908.css.map",
-    "main.e7e63c89.js.map": "/React-Registration-form/static/js/main.e7e63c89.js.map"
+    "main.e2017c3b.js.map": "/React-Registration-form/static/js/main.e2017c3b.js.map"
   },
   "entrypoints": [
     "static/css/main.87c76908.css",
-    "static/js/main.e7e63c89.js"
+    "static/js/main.e2017c3b.js"
   ]
 }
